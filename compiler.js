@@ -1,0 +1,1 @@
+module.exports=b=>eval(`m=Array(3e4).fill(k=p=0);o='';${[...b].map(p=>"m[p]++@m[p]--@p++@p--@while(m[p]){@}@m[p]=i.charCodeAt(k++)@o+=String.fromCharCode(m[p])".split`@`["+-><[],.".indexOf(p)]).join`;`}o`);
