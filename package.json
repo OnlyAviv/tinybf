@@ -4,6 +4,6 @@
   "main": "compiler.js",
   "author": "Aviv Keller",
   "license": "MIT",
-  "repository": "git+https://github.com/onlyaviv/tinybf.git",
+  "repository": "git+https://github.com/avivkeller/tinybf.git",
   "description": "The smallest brainfuck compiler in the entirety of JavaScript"
 }
